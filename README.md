@@ -1,5 +1,9 @@
 # Hello World PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
 
+display of the map with the point of location of one is
+
+
+
 A PhoneGap Hello World template
 
 ## Usage
